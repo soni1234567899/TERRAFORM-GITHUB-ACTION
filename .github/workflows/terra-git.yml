@@ -17,8 +17,8 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-         AWS_ACCESS_KEY_ID: "AKIAW2LWF6XYCQIYS62G"
-         AWS_SECRET_ACCESS_KEY: "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"
+         AWS_ACCESS_KEY_ID: "AKIAW2LWF6XYG54QE7CB"
+         AWS_SECRET_ACCESS_KEY: "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"
          AWS_DEFAULT_REGION: "us-east-1"
     steps:
       - uses: actions/checkout@v2
